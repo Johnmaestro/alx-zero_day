@@ -1,1 +1,2 @@
-creating the 0x03-git directory
+#update
+updating my README
